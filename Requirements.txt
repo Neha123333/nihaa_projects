@@ -1,0 +1,1 @@
+This is a  test file to check whether the file is committed by using git command into following remote repository
